@@ -12,18 +12,18 @@
  -  **2017年4月14日更新**<br/>
     更新**Twitter**地址
  -  根据自己本地网络ping以下三个ip选择延时最小的hosts文件：
- - [hosts-1](https://raw.githubusercontent.com/zhengpu1/hosts/master/1/hosts) ip 203.210.7.38
- - [hosts-2](https://raw.githubusercontent.com/zhengpu1/hosts/master/2/hosts) ip 219.76.4.4
- - [hosts-3](https://raw.githubusercontent.com/zhengpu1/hosts/master/3/hosts) ip 202.171.252.103
+ - [hosts-1](https://raw.githubusercontent.com/zzh628/gyt/master/1/hosts) ip 203.210.7.38
+ - [hosts-2](https://raw.githubusercontent.com/zzh628/gyt/master/2/hosts) ip 219.76.4.4
+ - [hosts-3](https://raw.githubusercontent.com/zzh628/gyt/master/3/hosts) ip 202.171.252.103
  - 安卓用去广告[hosts](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)
  - 电脑用去广告[hosts](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt)
   
  +    ### Windows平台
  -   1. 下载[windows wget](http://www.interlog.com/~tcharron/wgetwin-1_5_3_1-binary.zip) 解压到到C盘根目录。
- -   2. 下载批处理 [一键更新hosts](https://raw.githubusercontent.com/zhengpu1/hosts/master/file/hosts及时更新.bat)
+ -   2. 下载批处理 [一键更新hosts](https://raw.githubusercontent.com/zzh628/gyt/master/file/hosts及时更新.bat)
  -   3. 执行 一键更新hosts 即可，如果杀毒软件拦截选择全部允许：
-    ![](https://github.com/zhengpu1/hosts/blob/master/file/pl.png)
-    ![](https://github.com/zhengpu1/hosts/blob/master/file/pi.png)
+    ![](https://github.com/zzh628/gyt/blob/master/file/pl.png)
+    ![](https://github.com/zzh628/gyt/blob/master/file/pi.png)
  -  > 注意：如果遇到无法替换，请右键文件hosts并找到“属性” -> “安全”，然后选择你登陆的用户名，最后点击编辑，勾选“写入”即可。
 
  +   ### 安卓平台
@@ -60,17 +60,17 @@
   
   ![img-source-from-https://github.com/docker/dockercraft](https://github.com/docker/dockercraft/raw/master/docs/img/contribute.png?raw=true)
   
-  [github-hosts]: https://raw.githubusercontent.com/zhengpu1/hosts/master/hosts "hosts on Github"
+  [github-hosts]: https://raw.githubusercontent.com/zzh628/gyt/master/hosts "hosts on Github"
   [tp1]: http://htcui.com/wp-content/uploads/cbf87778dc36ff1e8a6ce93d896550231.png
-  [tp2]: https://github.com/zhengpu1/hosts/blob/master/file/yt.png
+  [tp2]: https://github.com/zzh628/gyt/blob/master/file/yt.png
   [tp3]: http://htcui.com/wp-content/uploads/fb2135f9db6782534705d34ab902c3d2.png
   [tp4]: http://htcui.com/wp-content/uploads/121ae84b8edaea52a3b0d20989ab91f6.png
   [tp5]: http://htcui.com/wp-content/uploads/github1.png
   [tp6]: http://htcui.com/wp-content/uploads/0d647a5e99924d009a5a89fad8742d92.png
   [tp7]: http://htcui.com/wp-content/uploads/tumblr.png
-  [tp13]: https://github.com/zhengpu1/hosts/blob/master/file/play.png
-  [tp14]: https://github.com/zhengpu1/hosts/blob/master/file/box.png
-  [tp15]: https://github.com/zhengpu1/hosts/blob/master/file/yh.png
+  [tp13]: https://github.com/zzh628/gyt/blob/master/file/play.png
+  [tp14]: https://github.com/zzh628/gyt/blob/master/file/box.png
+  [tp15]: https://github.com/zzh628/gyt/blob/master/file/yh.png
   [tp12]: http://idannywu.com/wp-content/uploads/2016/11/google_2015_logo_detail.png
   [tp8]: http://htcui.com/wp-content/uploads/7dbbe9538255860e51b1d7f43c665abe.png
   [tp9]: http://htcui.com/wp-content/uploads/78b20954404ebe2b7a435e4996d5e0c2.png
